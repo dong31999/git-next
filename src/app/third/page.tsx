@@ -1,5 +1,5 @@
 const page =() => {
     return(
-        <></>
+        <>ss</>
     );
 }
